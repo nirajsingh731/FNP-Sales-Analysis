@@ -51,19 +51,19 @@ Based on an analysis of the current dataset, here are the primary trends and fin
 
 ### 1. High-Demand Occasions
 The data shows distinct sales peaks aligned with major cultural and personal events:
-* [cite_start]**Cultural Festivals:** Festivals like **Diwali**, **Holi**, and **Raksha Bandhan** drive significant transaction volume.
-* [cite_start]**Personal Milestones:** **Anniversaries** and **Birthdays** are consistent year-round contributors to total sales.
-* [cite_start]**Seasonal Peaks:** **Valentine's Day** shows a concentrated spike in specific categories like Mugs, Plants, and Soft Toys.
+* **Cultural Festivals:** Festivals like **Diwali**, **Holi**, and **Raksha Bandhan** drive significant transaction volume.
+* **Personal Milestones:** **Anniversaries** and **Birthdays** are consistent year-round contributors to total sales.
+* **Seasonal Peaks:** **Valentine's Day** shows a concentrated spike in specific categories like Mugs, Plants, and Soft Toys.
 
 ### 2. Top Performing Product Categories
-* [cite_start]**Gift Essentials:** Categories such as **Sweets**, **Cake**, and **Flowers** are frequently purchased across almost all occasions[cite: 21, 23].
-* [cite_start]**Keepsakes:** **Mugs** and **Soft Toys** are top choices for Valentine's Day and personal celebrations.
-* [cite_start]**Niche Interests:** **Plants** and **Colors** (specifically for Holi) represent growing segments in the gift catalog.
+* **Gift Essentials:** Categories such as **Sweets**, **Cake**, and **Flowers** are frequently purchased across almost all occasions[cite: 21, 23].
+* **Keepsakes:** **Mugs** and **Soft Toys** are top choices for Valentine's Day and personal celebrations.
+* **Niche Interests:** **Plants** and **Colors** (specifically for Holi) represent growing segments in the gift catalog.
 
 ### 3. Geographical Distribution
-* [cite_start]Sales are widely distributed across diverse Indian cities, with notable activity in locations like **Jaipur**, **Bardhaman**, **Bilaspur**, and **Guwahati**.
-* [cite_start]Shipping data reveals a mix of Tier 1 and Tier 2 cities, indicating a broad market reach[cite: 1, 25].
+* Sales are widely distributed across diverse Indian cities, with notable activity in locations like **Jaipur**, **Bardhaman**, **Bilaspur**, and **Guwahati**.
+* Shipping data reveals a mix of Tier 1 and Tier 2 cities, indicating a broad market reach[cite: 1, 25].
 
 ### 4. Customer Demographics
-* [cite_start]The customer base is nearly evenly split between **Male** and **Female** shoppers, though purchasing preferences vary by category.
-* [cite_start]There is a high rate of repeat customers (linked by `Customer_ID`), suggesting strong brand loyalty for recurring annual events[cite: 1, 48].
+* The customer base is nearly evenly split between **Male** and **Female** shoppers, though purchasing preferences vary by category.
+* There is a high rate of repeat customers (linked by `Customer_ID`), suggesting strong brand loyalty for recurring annual events[cite: 1, 48].
